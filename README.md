@@ -1,1 +1,3 @@
-# study-plan
+# 掘金小册学习计划
+
+## JavaScript 设计模式核⼼原理与应⽤实践
